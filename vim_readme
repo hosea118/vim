@@ -1,4 +1,6 @@
 1. Solarized Dark 官方网站: http://ethanschoonover.com/solarized
+   https://ethanschoonover.com/solarized/files/solarized.zip
+   解压后里面有各个环境的安装方法
 2. ag 安装：
  linux： apt-get install silversearcher-ag
  mac：brew install the_silver_searcher
